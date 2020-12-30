@@ -1,0 +1,31 @@
+{
+"id": "DDiizz.app.sub",
+"name": "书旗小说APP",
+"author": "@DDiizz",
+"icon": "http://elf.static.maibaapp.com/content/ios-countdown/11891342/avatar/11591339654571.png",
+"repo": "https://github.com/DDiizz/sqxsapp",
+"apps": [{
+"id": "sqxssign",
+"name": "书旗小说APP",
+"keys": ["getBindinfosignurl","getBindinfosignheader","boxTasksignurl","boxTasksignheader","signInActionsignheader","signInActionsignbd","infosignbd","lotterysignbd","lotterysignheader","rewardsignbd","rewardsignheader","getAdInfosignurl","activitysignbd","withdrawsignbd","oceansignurl","oceansignheader","oceansignbd","uploadsignheader","uploadsignbd","tenminutessignbd","getBindinfosignurl2","getBindinfosignheader2","boxTasksignurl2","boxTasksignheader2","signInActionsignheader2","signInActionsignbd2","infosignbd2","lotterysignbd2","lotterysignheader2","rewardsignbd2","rewardsignheader2","getAdInfosignurl2","activitysignbd2","withdrawsignbd2","oceansignurl2","oceansignheader2","oceansignbd2","uploadsignheader2","uploadsignbd2","tenminutessignbd2","getBindinfosignurl3","getBindinfosignheader3","boxTasksignurl3","boxTasksignheader3","signInActionsignheader3","signInActionsignbd3","infosignbd3","lotterysignbd3","lotterysignheader3","rewardsignbd3","rewardsignheader3","getAdInfosignurl3","activitysignbd3","withdrawsignbd3","oceansignurl3","oceansignheader3","oceansignbd3","uploadsignheader3","uploadsignbd3","tenminutessignbd3","getBindinfosignurl4","getBindinfosignheader4","boxTasksignurl4","boxTasksignheader4","signInActionsignheader4","signInActionsignbd4","infosignbd4","lotterysignbd4","lotterysignheader4","rewardsignbd4","rewardsignheader4","getAdInfosignurl4","activitysignbd4","withdrawsignbd4","oceansignurl4","oceansignheader4","oceansignbd4","uploadsignheader4","uploadsignbd4","tenminutessignbd4","getBindinfosignurl5","getBindinfosignheader5","boxTasksignurl5","boxTasksignheader5","signInActionsignheader5","signInActionsignbd5","infosignbd5","lotterysignbd5","lotterysignheader5","rewardsignbd5","rewardsignheader5","getAdInfosignurl5","activitysignbd5","withdrawsignbd5","oceansignurl5","oceansignheader5","oceansignbd5","uploadsignheader5","uploadsignbd5","tenminutessignbd5","getBindinfosignurl6","getBindinfosignheader6","boxTasksignurl6","boxTasksignheader6","signInActionsignheader6","signInActionsignbd6","infosignbd6","lotterysignbd6","lotterysignheader6","rewardsignbd6","rewardsignheader6","getAdInfosignurl6","activitysignbd6","withdrawsignbd6","oceansignurl6","oceansignheader6","oceansignbd6","uploadsignheader6","uploadsignbd6","tenminutessignbd6","getBindinfosignurl7","getBindinfosignheader7","boxTasksignurl7","boxTasksignheader7","signInActionsignheader7","signInActionsignbd7","infosignbd7","lotterysignbd7","lotterysignheader7","rewardsignbd7","rewardsignheader7","getAdInfosignurl7","activitysignbd7","withdrawsignbd7","oceansignurl7","oceansignheader7","oceansignbd7","uploadsignheader7","uploadsignbd7","tenminutessignbd7","getBindinfosignurl8","getBindinfosignheader8","boxTasksignurl8","boxTasksignheader8","signInActionsignheader8","signInActionsignbd8","infosignbd8","lotterysignbd8","lotterysignheader8","rewardsignbd8","rewardsignheader8","getAdInfosignurl8","activitysignbd8","withdrawsignbd8","oceansignurl8","oceansignheader8","oceansignbd8","uploadsignheader8","uploadsignbd8","tenminutessignbd8","getBindinfosignurl9","getBindinfosignheader9","boxTasksignurl9","boxTasksignheader9","signInActionsignheader9","signInActionsignbd9","infosignbd9","lotterysignbd9","lotterysignheader9","rewardsignbd9","rewardsignheader9","getAdInfosignurl9","activitysignbd9","withdrawsignbd9","oceansignurl9","oceansignheader9","oceansignbd9","uploadsignheader9","uploadsignbd9","tenminutessignbd9","getBindinfosignurl10","getBindinfosignheader10","boxTasksignurl10","boxTasksignheader10","signInActionsignheader10","signInActionsignbd10","infosignbd10","lotterysignbd10","lotterysignheader10","rewardsignbd10","rewardsignheader10","getAdInfosignurl10","activitysignbd10","withdrawsignbd10","oceansignurl10","oceansignheader10","oceansignbd10","uploadsignheader10","uploadsignbd10","tenminutessignbd10"],
+"author": "@ddiizz",
+"settings": [{
+"id": "sqxsSuffix",
+"name": "当前账号",
+"val": "1",
+"type": "number",
+"desc": "当前获取cookie记录的账号，多账号例如：1、2、3、目前最多10个账号"
+},
+{
+"id": "sqxsCount",
+"name": "账号个数",
+"val": "1",
+"type": "number",
+"desc": "指定几个账号,跑几个账号的任务,最多跑10个账号"
+}
+],
+"repo": "https://github.com/DDiizz/sqxsapp/blob/main/SQXSAPP/sqxssign.js",
+"icons": ["https://img01.sogoucdn.com/app/a/100520146/fdab64e53bd3b119dba5c70adb5ca32f", "https://img01.sogoucdn.com/app/a/100520146/fdab64e53bd3b119dba5c70adb5ca32f"],
+"script": "https://raw.githubusercontent.com/DDiizz/sqxsapp/main/SQXSAPP/sqxssign.js"
+}]
+}
